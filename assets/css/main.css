@@ -5,6 +5,7 @@
 	Read Only by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	old green: #a1ccaf
 */
 
 html, body, div, span, applet, object,
@@ -117,7 +118,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #a1ccaf !important;
+			color: #a1ccaf!important;
 		}
 
 	strong, b {
@@ -2751,7 +2752,7 @@ input, select, textarea {
 			}
 
 			#header > header p {
-				color: #d7dfda;
+				color: #ffffff;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
